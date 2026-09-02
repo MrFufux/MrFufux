@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 
 - 🔭 Currently working and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
 - 🛠️ Focused on UI/API, Data and AI test automation workflows and QA best practices.
-- 🛡️ Actively studying **Cybersecurity** through **Hack The Box** and **Cisco** courses.
+- 🛡️ Actively studying **Cybersecurity** through **Hack The Box** and **Cisco** courses and practicing **Linux & Bash Shell scripting** for pentesting.
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
 
 ---
@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-5B00FF?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 **Programming Language:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
