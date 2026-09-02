@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 
 - 🔭 Currently working and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
 - 🛠️ Focused on UI/API, Data and AI test automation workflows and QA best practices.
-- 🛡️ Actively studying **Cybersecurity** through **Hack The Box** and **Cisco** courses and practicing **Linux & Bash Shell scripting** for pentesting.
+- 🛡️ Actively studying **Cybersecurity** through **Hack The Box** and **Cisco** courses and practicing **Linux & Bash Shell scripting** as well.
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
 
 ---
