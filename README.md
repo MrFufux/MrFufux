@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 
 ### 🧪 About Me
 
-- 🔭 Currently working on and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
+- 🔭 Currently working and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
 - 🛠️ Focused on UI/API, Data and AI test automation workflows and QA best practices.
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
 
