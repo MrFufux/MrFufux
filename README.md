@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 
 - 🔭 Currently working and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
 - 🛠️ Focused on UI/API, Data and AI test automation workflows and QA best practices.
-- 🎮 Interested in video game development using Unreal Engine 5 (UE5) & C++.
+- 🛡️ Actively studying **Cybersecurity** through **Hack The Box** and **Cisco** courses.
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
 
 ---
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Game Development:**
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Cybersecurity & Learning:**
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
