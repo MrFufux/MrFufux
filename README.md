@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 **AI & Dev Tools:**
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-0052CC?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 **Tools & Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
