@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-**Languages & Frontend:**
+**Programming Language:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **AI & Dev Tools:**
