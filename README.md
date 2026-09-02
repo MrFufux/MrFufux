@@ -35,18 +35,5 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET)** passio
 
 ---
 
-### 📌 Featured Projects
-
-- 🐍 **[ui_api_playwright_practice](https://github.com/MrFufux/ui_api_playwright_practice):** Practice framework for UI and API automation in Python using Playwright.
-- 🤖 **[playwright_framework](https://github.com/MrFufux/playwright_framework):** Experimental framework exploring new technologies and custom AI agents.
-
----
-
-### 📊 GitHub Stats
-
-![MrFufux's Stats](https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=tokyonight)
-
----
 
 ⭐ *Thanks for stopping by!*
