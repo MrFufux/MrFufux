@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there! I'm Andrés (MrFufux) 👋
 
-<!--
-**MrFufux/MrFufux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Whatever happens, happens."* — Spike Spiegel 🚀
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET)** passionate about software quality, test automation (UI & API), and building efficient, maintainable automation frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧪 About Me
+
+- 🔭 Currently working on and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
+- 🛠️ Focused on UI/API test automation and QA best practices.
+- 📍 Based in Colombia 🇨🇴.
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
+
+---
+
+### 🧰 Tech Stack & Tools
+
+**Testing & Automation:**
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Languages & Frontend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools & Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🐍 **[ui_api_playwright_practice](https://github.com/MrFufux/ui_api_playwright_practice):** Practice framework for UI and API automation in Python using Playwright.
+- 🤖 **[playwright_framework](https://github.com/MrFufux/playwright_framework):** Experimental framework exploring new technologies and custom AI agents.
+
+---
+
+### 📊 GitHub Stats
+
+![MrFufux's Stats](https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Thanks for stopping by!*
