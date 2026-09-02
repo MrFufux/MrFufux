@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 
 - 🔭 Currently working and practicing with automation frameworks using **Python**, **Playwright**, and **AI agents** integration.
 - 🛠️ Focused on UI/API, Data and AI test automation workflows and QA best practices.
+- 🎮 Interested in **video game development** using **Unreal Engine 5** (UE5) & C++.
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
 
 ---
@@ -34,6 +35,10 @@ Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engi
 **Tools & Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Game Development:**
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
