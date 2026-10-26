@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=58E1FF&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=7AA2D6&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://github.com/MrFufux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5C87B8&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MrFufux&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MrFufux&style=flat-square&color=5C87B8&label=PROFILE+VIEWS" />
 
 </div>
 
