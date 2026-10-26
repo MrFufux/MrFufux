@@ -31,9 +31,9 @@ I enjoy building test suites where reliability, readability, and fast feedback m
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=transparent&hide_border=true&title_color=F2C14E&icon_color=E8A33D&text_color=C9D1D9&ring_color=D97757&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2D6&icon_color=5C87B8&text_color=C9D1D9&ring_color=7AA2D6&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=transparent&hide_border=true&title_color=F2C14E&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=transparent&hide_border=true&title_color=7AA2D6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
 
 </div>
 
