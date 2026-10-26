@@ -169,8 +169,6 @@ Camping →    At least 2 days away from everything and everyone
 
 ---
 
-<br><br>
-
 ⭐ *Thanks for stopping by!*
 
 </div>
