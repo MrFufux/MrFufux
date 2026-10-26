@@ -3,12 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=7AA2D6&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://github.com/MrFufux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5C87B8&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5C87B8&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);Cybersecurity+Enthusiast;QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
 </a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MrFufux&style=flat-square&color=5C87B8&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -25,7 +21,7 @@ Learning    : Cybersecurity · Linux & Bash · Unreal Engine 5
 
 I'm a **Software Developer in Test (SDET), QA Engineer and Test Automation Engineer** passionate about **software quality** and building **efficient, maintainable automation frameworks**.
 
-These days I'm focused on **AI-driven test automation workflows**, while studying **cybersecurity** and sharpening my **Linux & Bash** skills.
+My next mission is **cybersecurity**. Years of testing software showed me how fragile systems can be, and now I'm turning that experience into real security skills: **hands-on labs on TryHackMe & Hack The Box**, **networking with Cisco**, and living in the **Linux terminal**. My goal is to bring **security testing** and **AI-powered automation** together.
 
 I enjoy building test suites where reliability, readability, and fast feedback matter.
 
