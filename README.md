@@ -43,6 +43,13 @@ I enjoy building test suites where reliability, readability, and fast feedback m
 
 ```python
 current_focus = {
+    "cybersecurity": [
+        "TryHackMe",
+        "Hack The Box",
+        "Cisco courses",
+        "Kali Linux"
+    ],
+
     "test_automation": [
         "Playwright + Pytest frameworks",
         "API testing with HTTPX & Postman",
@@ -53,13 +60,6 @@ current_focus = {
         "AI agents in QA workflows",
         "MCP and CLI integrations",
         "Claude Code & GitHub Copilot"
-    ],
-
-    "cybersecurity": [
-        "TryHackMe",
-        "Hack The Box",
-        "Cisco courses",
-        "Kali Linux"
     ],
 
     "systems": [
