@@ -1,52 +1,206 @@
-# Hi there! I'm Andrés (MrFufux) 👋
+<div align="center">
 
-> *"Whatever happens, happens."* — Spike Spiegel 🚀
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=F2C14E&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
 
-Welcome to my GitHub profile! I'm a **Software Developer in Test (SDET), QA Engineer and Test Automation Engineer** passionate about software quality, test automation, and building efficient, maintainable automation frameworks.
+<a href="https://github.com/MrFufux">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=E8A33D&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
+</a>
 
----
+<br>
 
-### 🧪 About Me
+<img src="https://komarev.com/ghpvc/?username=MrFufux&style=flat-square&color=D97757&label=PROFILE+VIEWS" />
 
-- 🛠️ Focused on AI test automation workflows and QA best practices.
-- 🛡️ Actively studying **Cybersecurity** through **TryHackMe**, **Hack The Box** and **Cisco** courses and practicing **Linux & Bash Shell scripting** as well.
-- 🎮 Interested in game development and learning **Unreal Engine 5**.
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mrfufux).
-
----
-
-### 🧰 Tech Stack & Tools
-
-**Testing & Automation:**
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-5B00FF?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Programming Language:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**AI & Dev Tools:**
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-0052CC?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![MCP](https://img.shields.io/badge/MCP-5B00FF?style=for-the-badge&logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)
-
-**Tools & Version Control:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Cybersecurity & Learning:**
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) 
-[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-**Game Development & Learning:** [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+</div>
 
 ---
 
+## `> whoami`
+
+```text
+Name        : Andrés (MrFufux)
+Role        : SDET · QA Engineer · Test Automation Engineer
+Focus       : Test Automation · AI Testing Workflows · QA Best Practices
+Learning    : Cybersecurity · Linux & Bash · Unreal Engine 5
+Motto       : "Whatever happens, happens." — Spike Spiegel 🚀
+```
+
+I'm a **Software Developer in Test (SDET), QA Engineer and Test Automation Engineer** passionate about **software quality** and building **efficient, maintainable automation frameworks**.
+
+These days I'm focused on **AI-driven test automation workflows**, while studying **cybersecurity** and sharpening my **Linux & Bash** skills.
+
+I enjoy building test suites where reliability, readability, and fast feedback matter.
+
+---
+
+## `> current_focus`
+
+```python
+current_focus = {
+    "test_automation": [
+        "Playwright + Pytest frameworks",
+        "API testing with HTTPX & Postman",
+        "maintainable test architecture"
+    ],
+
+    "ai_testing": [
+        "AI agents in QA workflows",
+        "MCP integrations",
+        "Claude Code & GitHub Copilot"
+    ],
+
+    "cybersecurity": [
+        "TryHackMe",
+        "Hack The Box",
+        "Cisco courses"
+    ],
+
+    "systems": [
+        "Linux",
+        "Bash shell scripting"
+    ]
+}
+```
+
+---
+
+## `> tech_stack`
+
+### Testing & Automation
+
+<p align="left">
+
+![Playwright](https://img.shields.io/badge/Playwright-161B22?style=for-the-badge&logo=playwright&logoColor=F2C14E)
+![Pytest](https://img.shields.io/badge/Pytest-161B22?style=for-the-badge&logo=pytest&logoColor=E8A33D)
+![HTTPX](https://img.shields.io/badge/HTTPX-161B22?style=for-the-badge&logo=python&logoColor=D97757)
+![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=F2C14E)
+
+</p>
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+</p>
+
+### AI & Dev Tools
+
+<p align="left">
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-161B22?style=for-the-badge&logo=githubcopilot&logoColor=F2C14E)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=for-the-badge&logo=anthropic&logoColor=D97757)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logo=openai&logoColor=E8A33D)](https://openai.com/)
+[![MCP](https://img.shields.io/badge/MCP-161B22?style=for-the-badge&logo=anthropic&logoColor=F2C14E)](https://modelcontextprotocol.io/)
+
+</p>
+
+### Tools & Version Control
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
+</p>
+
+### Currently exploring
+
+<p align="left">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-161B22?style=for-the-badge&logo=tryhackme&logoColor=F2C14E)](https://tryhackme.com/)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-161B22?style=for-the-badge&logo=hackthebox&logoColor=E8A33D)](https://www.hackthebox.com/)
+![Cisco](https://img.shields.io/badge/Cisco-161B22?style=for-the-badge&logo=cisco&logoColor=D97757)
+[![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-161B22?style=for-the-badge&logo=unrealengine&logoColor=F2C14E)](https://www.unrealengine.com/)
+
+</p>
+
+---
+
+## `> engineering_interests`
+
+```text
+01. Test Automation
+    └── Scalable framework design
+    └── UI & API testing
+    └── Fast, reliable feedback loops
+
+02. AI in QA
+    └── AI agents for testing workflows
+    └── MCP & tool integrations
+    └── Smarter test generation
+
+03. Cybersecurity
+    └── Hands-on labs (THM · HTB)
+    └── Networking fundamentals (Cisco)
+    └── Security-minded testing
+
+04. Game Development
+    └── Unreal Engine 5
+    └── Gameplay prototyping
+```
+
+---
+
+## `> test_philosophy`
+
+```python
+import pytest
+
+
+@pytest.mark.quality
+def test_software_is_reliable(codebase):
+    assert codebase.is_tested()
+    assert codebase.is_maintainable()
+    assert codebase.ships_with_confidence()
+```
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=transparent&hide_border=true&title_color=F2C14E&icon_color=E8A33D&text_color=C9D1D9&ring_color=D97757&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=transparent&hide_border=true&title_color=F2C14E&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFufux&theme=transparent&hide_border=true&background=0D1117&ring=E8A33D&fire=D97757&currStreakLabel=F2C14E&sideLabels=C9D1D9&currStreakNum=FFF4D6&sideNums=FFF4D6&dates=8B949E" />
+
+</div>
+
+---
+
+## `> beyond_code`
+
+```bash
+$ interests --list
+
+Cybersecurity → TryHackMe · Hack The Box
+Game Dev      → learning Unreal Engine 5
+Linux         → living in the terminal
+Cowboy Bebop  → see you, space cowboy 🚀
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/MrFufux">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2C14E"/>
+</a>
+
+<a href="https://linkedin.com/in/mrfufux">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/>
+</a>
+
+<br><br>
+
+```text
+Test early. Automate wisely. Ship with confidence.
+```
 
 ⭐ *Thanks for stopping by!*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer" width="100%"/>
+
+</div>
