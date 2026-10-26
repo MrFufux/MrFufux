@@ -137,6 +137,16 @@ current_focus = {
 
 ---
 
+## `> languages --spoken`
+
+```text
+🇨🇴 Spanish  →  Native
+🇺🇸 English  →  Professional
+🇷🇺 Russian  →  Learning
+```
+
+---
+
 ## `> github_stats`
 
 <div align="center">
@@ -144,10 +154,6 @@ current_focus = {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrFufux&show_icons=true&theme=transparent&hide_border=true&title_color=F2C14E&icon_color=E8A33D&text_color=C9D1D9&ring_color=D97757&bg_color=0D1117" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFufux&layout=compact&theme=transparent&hide_border=true&title_color=F2C14E&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFufux&theme=transparent&hide_border=true&background=0D1117&ring=E8A33D&fire=D97757&currStreakLabel=F2C14E&sideLabels=C9D1D9&currStreakNum=FFF4D6&sideNums=FFF4D6&dates=8B949E" />
 
 </div>
 
@@ -162,6 +168,7 @@ Guitar  →    +15 years
 Gaming  →    Just  to chill
 Boxing  →    Gym is boring. I prefer to exercise my body with combat instead
 Reading →    Yes, please. I need keep my mind sharp
+Camping →    At least 2 days away from everything and everyone
 ```
 
 ---
@@ -176,9 +183,6 @@ Reading →    Yes, please. I need keep my mind sharp
 
 <br><br>
 
-
 ⭐ *Thanks for stopping by!*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer" width="100%"/>
 
 </div>
