@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=FF4D5A&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Andr%C3%A9s%20%C2%B7%20MrFufux&fontSize=46&fontColor=FF4D5A&fontAlignY=38&desc=SDET%20%C2%B7%20QA%20Engineer%20%C2%B7%20Test%20Automation&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://github.com/MrFufux">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FF7A6B&center=true&vCenter=true&width=700&lines=Software+Developer+in+Test+(SDET);QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Python;AI-powered+Testing+Workflows;Whatever+happens%2C+happens." alt="Typing SVG" />
