@@ -17,11 +17,10 @@
 ## `> whoami`
 
 ```text
-Name        : Andrés (MrFufux)
+Name        : Andrés Felipe
 Role        : SDET · QA Engineer · Test Automation Engineer
 Focus       : Test Automation · AI Testing Workflows · QA Best Practices
 Learning    : Cybersecurity · Linux & Bash · Unreal Engine 5
-Motto       : "Whatever happens, happens." — Spike Spiegel 🚀
 ```
 
 I'm a **Software Developer in Test (SDET), QA Engineer and Test Automation Engineer** passionate about **software quality** and building **efficient, maintainable automation frameworks**.
@@ -44,14 +43,15 @@ current_focus = {
 
     "ai_testing": [
         "AI agents in QA workflows",
-        "MCP integrations",
+        "MCP and CLI integrations",
         "Claude Code & GitHub Copilot"
     ],
 
     "cybersecurity": [
         "TryHackMe",
         "Hack The Box",
-        "Cisco courses"
+        "Cisco courses",
+        "Kali Linux"
     ],
 
     "systems": [
@@ -137,21 +137,6 @@ current_focus = {
 
 ---
 
-## `> test_philosophy`
-
-```python
-import pytest
-
-
-@pytest.mark.quality
-def test_software_is_reliable(codebase):
-    assert codebase.is_tested()
-    assert codebase.is_maintainable()
-    assert codebase.ships_with_confidence()
-```
-
----
-
 ## `> github_stats`
 
 <div align="center">
@@ -168,15 +153,15 @@ def test_software_is_reliable(codebase):
 
 ---
 
-## `> beyond_code`
+## `> beyond_code systems`
 
 ```bash
 $ interests --list
 
-Cybersecurity → TryHackMe · Hack The Box
-Game Dev      → learning Unreal Engine 5
-Linux         → living in the terminal
-Cowboy Bebop  → see you, space cowboy 🚀
+Guitar  →    +15 years
+Gaming  →    Just  to chill
+Boxing  →    Gym is boring. I prefer to exercise my body with combat instead
+Reading →    Yes, please. I need keep my mind sharp
 ```
 
 ---
@@ -185,19 +170,12 @@ Cowboy Bebop  → see you, space cowboy 🚀
 
 <div align="center">
 
-<a href="https://github.com/MrFufux">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2C14E"/>
-</a>
-
 <a href="https://linkedin.com/in/mrfufux">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/>
 </a>
 
 <br><br>
 
-```text
-Test early. Automate wisely. Ship with confidence.
-```
 
 ⭐ *Thanks for stopping by!*
 
