@@ -173,14 +173,6 @@ Camping →    At least 2 days away from everything and everyone
 
 ---
 
-## `> connect`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mrfufux">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A33D"/>
-</a>
-
 <br><br>
 
 ⭐ *Thanks for stopping by!*
